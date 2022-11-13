@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Football App</string>
+    <string name="shared_prefs_matches_key">matches</string>
+    <string name="description_splash_image">Splash image</string>
+    <string name="description_fab_image">Scroll up button</string>
+    <string name="default_championship_name">Championship Name</string>
+    <string name="default_football_field_name">FOOTBALL FIELD</string>
+    <string name="finished_matches_text">Finished Matches</string>
+</resources>
